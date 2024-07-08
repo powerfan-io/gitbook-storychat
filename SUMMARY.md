@@ -19,3 +19,7 @@
 * [🛠️ Getting set up](tokenomics/getting-set-up/README.md)
   * [📝 Setting permissions](tokenomics/getting-set-up/setting-permissions.md)
   * [🧑 Inviting Members](tokenomics/getting-set-up/inviting-members.md)
+
+## Other Languages
+
+* [🇰🇷 한국어투토리얼](other-languages/korean.md)
