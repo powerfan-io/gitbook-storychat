@@ -3,16 +3,16 @@
 ## Overview
 
 * [Storychat](README.md)
-  * [Vision](overview/what-we-do/our-features.md)
+  * [Vision](overview/our-features.md)
   * [Key Features](overview/what-we-do/key-features.md)
   * [Glossary](overview/what-we-do/glossary.md)
 
 ## Product
 
-* [Feed](product/1.-talk-with-character.md)
-* [Chats](product/2.-generate-an-image.md)
-* [Create](product/3.-create-a-group.md)
-* [Explore](product/4.-edit-my-creator-profile.md)
+* [Feed](product-guides/1.-talk-with-character.md)
+* [Chats](product-guides/2.-generate-an-image.md)
+* [Create](product-guides/3.-create-a-group.md)
+* [Explore](product-guides/4.-edit-my-creator-profile.md)
 
 ## Ecosystem
 
@@ -30,7 +30,7 @@
 
 ## TUTORIALS
 
-* [Create Characters](tutorials/korean.md)
+* [Create Characters](other-languages/korean.md)
 * [Create Stories](tutorials/create-stories.md)
 * [Create Images & Videos](tutorials/create-images-and-videos.md)
 
