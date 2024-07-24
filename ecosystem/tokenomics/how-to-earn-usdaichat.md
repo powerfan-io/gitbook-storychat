@@ -1,0 +1,2 @@
+# How to earn $AICHAT
+

@@ -1,25 +1,42 @@
 # Table of contents
 
-* [👋 Welcome!](README.md)
-
 ## Overview
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [Storychat](README.md)
+  * [Vision](overview/what-we-do/our-features.md)
+  * [Key Features](overview/what-we-do/key-features.md)
+  * [Glossary](overview/what-we-do/glossary.md)
 
-## Product Guides
+## Product
 
-* [📪 1. Talk with Character](product-guides/1.-talk-with-character.md)
-* [📎 2. Generate an Image](product-guides/2.-generate-an-image.md)
-* [🎉 3. Create a Group](product-guides/3.-create-a-group.md)
-* [🍎 4. Edit my Creator profile](product-guides/4.-edit-my-creator-profile.md)
+* [Feed](product/1.-talk-with-character.md)
+* [Chats](product/2.-generate-an-image.md)
+* [Create](product/3.-create-a-group.md)
+* [Explore](product/4.-edit-my-creator-profile.md)
 
-## Tokenomics
+## Ecosystem
 
-* [🛠️ Getting set up](tokenomics/getting-set-up/README.md)
-  * [📝 Setting permissions](tokenomics/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](tokenomics/getting-set-up/inviting-members.md)
+* [Rewards](ecosystem/rewards/README.md)
+  * [Assets](ecosystem/rewards/assets.md)
+  * [Mission](ecosystem/rewards/mission.md)
+  * [Seasonal Leaderboard](ecosystem/rewards/seasonal-leaderboard.md)
+* [Tokenomics](ecosystem/tokenomics/README.md)
+  * [$AICHAT](ecosystem/tokenomics/usdaichat.md)
+  * [Allocation](ecosystem/tokenomics/allocation.md)
+  * [How to earn $AICHAT](ecosystem/tokenomics/how-to-earn-usdaichat.md)
+* [Marketplace](ecosystem/marketplace/README.md)
+  * [STO](ecosystem/marketplace/sto.md)
+  * [GPU Sharing](ecosystem/marketplace/gpu-sharing.md)
 
-## Other Languages
+## TUTORIALS
 
-* [🇰🇷 한국어투토리얼](other-languages/korean.md)
+* [Create Characters](tutorials/korean.md)
+* [Create Stories](tutorials/create-stories.md)
+* [Create Images & Videos](tutorials/create-images-and-videos.md)
+
+## Extra
+
+* [Links](extra/links.md)
+* [Disclaimer](extra/disclaimer.md)
+* [Privacy Policy](extra/privacy-policy.md)
+* [Terms of Services](extra/terms-of-services.md)
