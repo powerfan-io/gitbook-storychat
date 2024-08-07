@@ -24,9 +24,9 @@
   * [$SCHAT](ecosystem/tokenomics/usdschat.md)
   * [Allocation](ecosystem/tokenomics/allocation.md)
   * [How to earn $SCHAT](ecosystem/tokenomics/how-to-earn-usdschat.md)
-* [Marketplace](ecosystem/marketplace/README.md)
-  * [STO](ecosystem/marketplace/sto.md)
-  * [GPU Sharing](ecosystem/marketplace/gpu-sharing.md)
+* [Storychat Trade](ecosystem/storychat-trade/README.md)
+  * [Creator Yield Token](ecosystem/storychat-trade/creator-yield-token.md)
+  * [AI Provider & GPU Sharing](ecosystem/storychat-trade/ai-provider-and-gpu-sharing.md)
 
 ## TUTORIALS
 
