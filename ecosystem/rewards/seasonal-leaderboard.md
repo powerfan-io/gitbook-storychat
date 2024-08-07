@@ -18,7 +18,7 @@ Explore 페이지에 있는 리더보드를 통해서 현재 시점의 순위를
 * Story
 * Character
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 각 리더보드의 점수 측정 방식은 다르게 설정되어 있으며 현재 단계의 측정 기준은 다음과 같습니다.
 

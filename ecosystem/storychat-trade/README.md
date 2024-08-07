@@ -1,6 +1,6 @@
 # Storychat Trade
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 Stroychat Trade는 Storychat $SCHAT 토큰을 통해 자산을 교환하고 스테이킹과 같은 상호작용을 할 수 있는 거래소이자 플랫폼입니다.
 

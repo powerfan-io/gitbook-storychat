@@ -1,3 +1,67 @@
 # Create Images & Videos
 
-ㅁ
+Storychat은 자유로운 이미지와 비디오 생성 환경을 제공합니다.
+
+현재 단계에선 이미지 생성 기능만 지원하며 비디오 생성 기능이 빠른 시일 내에 업데이트 될 예정입니다.
+
+이미지 생성은 Create 탭에 있는Create Image & Video 버튼을 눌러 Image Generator를 호출하거나, Storychat에 있는 어떠한 캐릭터와 대화 중에도 이미지를 생성할 수 있습니다.
+
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+
+Create Image & Video 버튼을 누르면 대화 기능 외에 이미지 생성 환경만을 제공하는 Image Generator가 실행됩니다.
+
+
+
+<figure><img src="../.gitbook/assets/image (16).png" alt="" width="260"><figcaption></figcaption></figure>
+
+캐릭터 대화 중 Image 버튼을 눌러도 이미지를 생성할 수 있습니다.
+
+
+
+
+
+<figure><img src="../.gitbook/assets/image (17).png" alt="" width="188"><figcaption></figcaption></figure>
+
+아래 항목들을 입력하여 간단히 이미지 및 비디오를 생성할 수 있습니다.
+
+모든 이미지, 비디오 생성에는 Story Point가 소모됩니다.
+
+
+
+**Format**
+
+생성할 결과물의 유형을 이미지, 비디오 중 선택합니다.
+
+
+
+**Select Image Size**
+
+이미지의 해상도를 설정합니다.
+
+
+
+**Select Generation Type**
+
+생성 타입을 설정합니다. 두 가지 타입을 제공합니다.
+
+* Text to Image : 프롬프트를 기반으로 이미지를 생성합니다.
+* Image to Image : 업로드한 이미지를 기반으로 프롬프트의 수정 내용을 반영하여 이미지를 생성합니다.
+
+
+
+**Seed**
+
+
+
+
+
+**Upload Photo**
+
+
+
+**Positive Prompt**
+
+
+
+**Negative Prompt**
+

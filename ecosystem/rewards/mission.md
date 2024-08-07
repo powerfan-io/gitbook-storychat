@@ -17,7 +17,7 @@ Daily Check-In은 가장 쉽고 기본적인 방식으로 Story Point를 획득�
 
 사용자가 해야하는 것은 그저 Storychat 앱을 키고 Daily Check-In 버튼을 누르는 것입니다.
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Daily Check-In은 사용자 당 1일 1회만 참여 가능하며 24시간 이후 재 참여가 가능합니다.
 
@@ -35,7 +35,7 @@ Storychat의 커뮤니티 채널에 참여하여 무료 Story Point를 획득할
 
 커뮤니티 미션은 1회성 보상으로 계정 당 각 채널별 1회 참여가 가능합니다.
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt="" width="365"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt="" width="365"><figcaption></figcaption></figure>
 
 
 
@@ -45,7 +45,7 @@ Storychat의 커뮤니티 채널에 참여하여 무료 Story Point를 획득할
 
 초대의 경우 참여의 제한이 없으며 초대 1회마다 보상이 증정됩니다.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt="" width="365"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt="" width="365"><figcaption></figcaption></figure>
 
 
 
@@ -55,7 +55,7 @@ Storychat 내의 콘텐츠를 참여하고 목표에 달성하여 Story Point를
 
 Achievements 보상은 Daily Mission과 Task List로 구분됩니다.
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt="" width="323"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt="" width="323"><figcaption></figcaption></figure>
 
 **Daily Mission**
 

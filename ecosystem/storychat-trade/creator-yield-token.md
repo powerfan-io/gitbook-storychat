@@ -12,7 +12,7 @@ Creator Yield Token은 각 크리에이터 별로 존재할 수 있으며 토큰
 
 
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

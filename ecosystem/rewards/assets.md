@@ -16,7 +16,7 @@ $SCHAT은 온체인에서 관리되는 자산입니다.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -51,7 +51,7 @@ Story Point는 Daily Check-In 혹은 미션 등을 통해 무료로 획득할 �
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
