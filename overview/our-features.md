@@ -2,7 +2,7 @@
 
 <figure><img src="../.gitbook/assets/19.png" alt=""><figcaption></figcaption></figure>
 
-## Storychat의 비전
+## Storychat's Vision
 
 Storychat은 AI를 통해 콘텐츠를 쉽게 제작할 수 있도록 지원합니다. 또한, Feed 기능을 통해 크리에이터들이 그들의 콘텐츠를 커뮤니티에 쉽고 효과적으로 공유할 수 있으며, 블록체인을 통해 기여도를 정확하게 측정하고 보상합니다.
 
@@ -12,7 +12,7 @@ Storychat은 AI를 통해 콘텐츠를 쉽게 제작할 수 있도록 지원합�
 
 
 
-## 장기적 비전
+## Long-term Vision
 
 AI가 빠르게 발전하면서 인류에게 미치는 효용성과 그 영향력은 갈수록 커지고 있습니다. Storychat은 다가오는 대 AI 시대에 올바르고 공정한 방향성을 제시하고 기여하고자 합니다.
 
