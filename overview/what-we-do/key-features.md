@@ -2,19 +2,19 @@
 
 {% embed url="https://www.youtube.com/watch?v=BovVVkIkFd4" %}
 
-Storychat은 크게 참여형 콘텐츠와 소비형 콘텐츠, 두 가지 유형의 콘텐츠를 제공합니다.
+Storychat offers two main types of content: participatory content and consumable content.
 
-## 참여형 콘텐츠
+## Participatory Content
 
-* **캐릭터AI 대화** : 다양한 캐릭터 AI와 직접 대화할 수 있습니다.
-* **그룹 채팅** : 여러 명의 유저가 동시에 같은 AI와 대화할 수 있습니다
-* **이미지 & 비디오 생성** : 간단한 프롬프트를 통해 다양한 이미지와 비디오를 생성할 수 있습니다.
-* **AI 챗봇 제작** : 유저들이 직접 대화할 수 있는 AI 챗봇을 제작하여 공유하고 수익화할 수 있습니
-* **Story 제작** : 자신의 대화 내용을 사용해 스토리를 만들어 Feed에 공유하고 수익화할 수 있습니다.
-* **숏폼 비디오 제작** : 자신의 대화 내용을 사용해 숏폼 비디오를 제작하여 Feed에 공유하고 수익화할 수 있습니다.
+* **Character AI Conversations:** Engage in direct conversations with various character AIs.
+* **Group Chat:** Multiple users can simultaneously converse with the same AI.
+* **Image & Video Generation:** Create diverse images and videos through simple prompts.
+* **AI Chatbot Creation:** Users can create AI chatbots for interaction, share them, and monetize their creations.
+* **Story Creation:** Use your conversation history to craft stories, share them on the Feed, and monetize.
+* **Short-form Video Creation:** Create short-form videos from your conversation history, share them on the Feed, and monetize.
 
-## 소비형 콘텐츠
+## Consumable Content
 
-* **Feed** : 소셜 미디어와 같은 환경을 제공하며, 간단한 스와이프로 수많은 스토리와 숏폼 비디오를 즐길 수 있습니다. 감상 중 터치 한 번으로 마음에 드는 캐릭터와 바로 대화를 시작할 수 있습니다.
-* **Story 구독** : 크리에이터가 제공하는 스토리를 구독하여 웹툰과 웹소설처럼 읽어볼 수 있습니다. 이를 넘어 해당 에피소드 상황에 직접 참여하여 캐릭터와 대화해보세요.
-* **그룹 채팅** : 여러 명의 유저가 동시에 AI와 대화하는 그룹 채팅에서 다른 유저들의 대화를 재미있게 감상할 수 있습니다.
+* **Feed:** Provides a social media-like environment where users can enjoy numerous stories and short-form videos with simple swipes. With a single touch, start a conversation with a favorite character during viewing.
+* **Story Subscription:** Subscribe to stories offered by creators and read them like webtoons and web novels. Beyond reading, participate directly in the episode's situation and converse with the characters.
+* **Group Chat:** Enjoy watching other users' conversations in a group chat where multiple users interact with an AI simultaneously.

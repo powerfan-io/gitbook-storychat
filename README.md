@@ -4,10 +4,10 @@
 
 ## Storychat
 
-Storychat에 오신걸 환영합니다!
+Welcome to Storychat!
 
-Storychat은 AI를 통해 제작된 웹툰, 웹소설 등을 감상할 수 있는 서비스이자 모든 스토리 안의 캐릭터들과 직접 대화하거나 AI 캐릭터를 직접 제작할 수도 있는 차세대 종합 콘텐츠 플랫폼입니다.
+Storychat is a next-generation comprehensive content platform where you can enjoy webtoons and web novels created through AI. Additionally, you can interact directly with characters within any story or even create your own AI characters.
 
-Storychat은 AI와 블록체인을 통하여 기존 웹2에서의 콘텐츠 시장의 한계를 극복하고, 훨씬 더 풍성하고 다양하게 진화된 콘텐츠를 제공하는 것을 목표로 합니다.
+Storychat aims to overcome the limitations of the traditional Web2 content market by leveraging AI and blockchain technology to offer a richer and more diverse array of content.
 
-Storychat은 다양한 세계관을 넘나드는 스토리와 캐릭터들은 물론이고, Feed를 통해 살펴볼 수 있는 소비형 콘텐츠와 AI와 직접 상호작용하는 참여형 콘텐츠 모두를 제공합니다.
+Storychat provides both consumable content, which can be explored through feeds, and interactive content that allows direct interaction with AI, encompassing a wide range of stories and characters across various universes.
