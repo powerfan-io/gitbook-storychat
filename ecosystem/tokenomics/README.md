@@ -1,10 +1,10 @@
 # Tokenomics
 
-## Disclaimer  :&#x20;
+**Disclaimer:**
 
-$SCHAT은 Storychat의 네이티브 Aptos Fungible Asset Standard 토큰입니다. 토큰 생성 이벤트(TGE) 이전에는 존재하거나 유통되지 않았습니다.
+$SCHAT is the native Aptos Fungible Asset Standard token of Storychat. It did not exist or circulate before the Token Generation Event (TGE).&#x20;
 
-Storychat은 현재 테스트 단계에 있으며, 이 백서에 설명된 세부 사항은 확정되지 않았습니다. 이 문서는 정보 제공을 위해 작성되었으며, 진행 상황에 따라 향후 개정될 수 있습니다.
+Storychat is currently in the testing phase, and the details described in this white paper are not finalized. This document is intended for informational purposes and may be revised as progress is made.
 
 
 

@@ -6,4 +6,5 @@
 * Telegram : [https://t.me/storychatapp](https://t.me/storychatapp)
 * App Store : [https://apps.apple.com/us/app/storychat-app/id6448866207](https://apps.apple.com/us/app/storychat-app/id6448866207)
 * Play Store : [https://play.google.com/store/apps/details?id=com.chainclip\&hl=en](https://play.google.com/store/apps/details?id=com.chainclip\&hl=en)
+* Linktree : [https://linktr.ee/storychatapp](https://linktr.ee/storychatapp)
 

@@ -1,18 +1,18 @@
 # Create Stories
 
-**Story**는 Storychat에서 가장 중요한 콘텐츠입니다.&#x20;
+The Story is the most crucial content in Storychat.&#x20;
 
-하나의 Story는 여러 개의 **Chat**으로 구성되어 있으며, Chat은 최소 공유 단위로 하나의 대화문을 의미합니다.&#x20;
+Each Story comprises multiple Chats, with each Chat representing the smallest shareable unit of a dialogue. Creators can set each Chat as either free or paid content.&#x20;
 
-크리에이터는 각각의 Chat을 무료 콘텐츠 혹은 유료 콘텐츠로 설정할 수 있습니다. 유저의 흥미를 끌기 위해 Story의 첫 5개 이상의 Chat을 무료로 공유하는 것을 권장합니다.
+To attract user interest, it is recommended to share at least the first five Chats of a Story for free.
 
 
 
 <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-캐릭터와 대화 중 마음에 드는 대화문이 등장했다면 **Plus** 버튼을 누른 뒤 **Create Story** 버튼을 눌러 Story 생성 페이지로 접근합니다.&#x20;
+If you come across a dialogue you like during a conversation with a character, press the Plus button and then the Create Story button to access the Story creation page.&#x20;
 
-전체 대화문 중 공유할 Chat에 포함될 메시지들만 터치하여 선택할 수 있습니다.
+You can select the messages to be included in the Chat by tapping them.
 
 
 
@@ -24,7 +24,7 @@
 
 </div>
 
-Chat 선택을 마친 뒤, 만든 Chat을 어떤 Story에 포함시킬 것인지 선택합니다.
+After selecting the desired messages, choose which Story to include the newly created Chat in.
 
 
 
@@ -36,11 +36,11 @@ Chat 선택을 마친 뒤, 만든 Chat을 어떤 Story에 포함시킬 것인지
 
 </div>
 
-Chat의 타이틀과 간략한 설명을 작성합니다.
+Write a title and a brief description for the Chat.&#x20;
 
-해당 Chat에 NSFW 콘텐츠가 포함되어 있는지, 이 콘텐츠를 유료 콘텐츠로 설정할 것인지 설정합니다.
+Decide whether the Chat includes NSFW content and if you want to set it as paid content.
 
-**Enable NSFW Content**: 선정적이거나 잔인한 이미지 및 컨셉이 사용된 경우 반드시 이 옵션을 활성화해야 합니다. 만약 Enable NSFW content 옵션을 활성화하지 않은 상태로 NSFW 콘텐츠를 공급할 경우, 규정에 따라 처벌이 이루어질 수 있습니다.
+**Enable NSFW Content**: If the Chat contains explicit or violent images and concepts, this option must be enabled. Failure to activate this option when providing NSFW content may result in penalties according to the regulations.
 
 
 

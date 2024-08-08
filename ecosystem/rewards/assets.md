@@ -1,12 +1,12 @@
 # Assets
 
-Storychat에는 세 가지 주요 자산이 존재합니다:
+Storychat comprises three primary assets:
 
 1. **Story Point**
 2. **GEM**
 3. **$SCHAT**
 
-Story Point와 GEM은 오프체인에서, $SCHAT은 온체인에서 관리되는 자산입니다.
+Story Point and GEM are managed off-chain, while $SCHAT is managed on-chain.
 
 
 
@@ -18,28 +18,28 @@ Story Point와 GEM은 오프체인에서, $SCHAT은 온체인에서 관리되는
 
 </div>
 
-**Story Point**는 Storychat에서 가장 기본적으로 사용되는 화폐이자 자산입니다. Storychat의 기본적인 기능들을 사용하는 데 활용되며, 가장 많은 사용처를 가지고 있습니다. Story Point는 Daily Check-In이나 미션 등을 통해 무료로 획득할 수 있으며, 결제를 통해서도 구매할 수 있습니다.
+Story Point is the most basic currency and asset used within Storychat. It is utilized for basic functions in Storychat and has the widest range of applications. Users can acquire Story Points for free through Daily Check-In or missions, and they can also purchase them via payment.
 
 
 
-**Story Point 획득법**
+**Methods to Acquire Story Points:**
 
-* 시즌 리더보드 보상
-* 인앱 결제
-* Storychat 멤버십 구독
-* P2P 거래
-* 미션 수행
-* Daily Check-In&#x20;
-* $SCHAT  스왑
+* Season leaderboard rewards
+* In-app purchases
+* Storychat membership subscriptions
+* P2P transactions
+* Mission completion
+* Daily Check-In
+* $SCHAT swaps
 
 
 
-**Story Point 사용처**
+**Uses of Story Points:**
 
-* AI 캐릭터와 대화
-* 이미지 & 비디오 생성
-* Story 길이 제한 해제
-* 더 긴 숏폼 비디오 생성
+* Conversing with AI characters
+* Generating images and videos
+* Removing story length limitations
+* Creating longer short-form videos
 
 
 
@@ -51,27 +51,27 @@ Story Point와 GEM은 오프체인에서, $SCHAT은 온체인에서 관리되는
 
 </div>
 
-**GEM**은 결제가 필요한 유료 콘텐츠를 위한 통화이며, 인앱 결제를 통해 구매할 수 있습니다. 또한 실제 수익을 발생시킨 크리에이터에게 지급되는 통화 역시 GEM이며, 현금으로 전환이 가능합니다.
+GEM is the currency required for paid content and can be purchased through in-app payments. It is also the currency paid to creators who generate actual revenue, and it can be converted into cash.
 
 
 
-**GEM 획득법**
+**Methods to Acquire GEM:**
 
-* 인앱 결제
-* Story 판매&#x20;
+* In-app purchases
+* Story sales
 
 
 
-**GEM 사용처**
+**Uses of GEM:**
 
-* Story 구매
-* 크리에이터 구독&#x20;
+* Purchasing stories
+* Subscribing to creators
 
 
 
 ## $SCHAT&#x20;
 
-**$SCHAT**은 Storychat의 토큰으로, Aptos 블록체인 네트워크를 사용합니다. $SCHAT은 온체인에서 관리되며, 플랫폼 내 다양한 경제 활동을 지원합니다.
+$SCHAT is the token of Storychat and utilizes the Aptos blockchain network. $SCHAT is managed on-chain and supports various economic activities within the platform.
 
 {% content-ref url="../tokenomics/usdschat.md" %}
 [usdschat.md](../tokenomics/usdschat.md)

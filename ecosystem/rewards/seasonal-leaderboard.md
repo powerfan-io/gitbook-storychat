@@ -1,8 +1,8 @@
 # Seasonal Leaderboard
 
-## Storychat 시즌제 운영
+## Storychat Seasonal Operations
 
-Storychat은 생태계 참여자들의 활발한 참여를 유도하고 그들의 기여도를 정확히 측정하여 공정한 보상을 제공하기 위해 시즌 방식의 보상 제도를 운영합니다. 한 시즌의 운영 기간은 1개월이며, 누구나 리더보드를 통해 현재 순위를 확인할 수 있고, 시즌 종료 시 순위에 따라 보상이 지급됩니다.
+To encourage active participation from ecosystem participants and accurately measure their contributions, Storychat operates a seasonal reward system. Each season lasts for one month, during which anyone can check the current rankings via the leaderboard. Rewards are distributed based on the rankings at the end of the season.
 
 
 
@@ -10,7 +10,7 @@ Storychat은 생태계 참여자들의 활발한 참여를 유도하고 그들�
 
 ## Leaderboard
 
-Explore 페이지에 있는 리더보드를 통해 현재 시점의 순위를 확인할 수 있습니다. 리더보드가 측정하는 순위는 다음과 같습니다:
+The leaderboard on the Explore page allows users to check the current rankings. The leaderboard tracks the following rankings:
 
 * **Story Maker**
 * **Story**
@@ -18,14 +18,12 @@ Explore 페이지에 있는 리더보드를 통해 현재 시점의 순위를 �
 
 <figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
-각 리더보드의 점수 측정 방식은 다르게 설정되어 있으며, 현재 단계의 측정 기준은 다음과 같습니다:
+Each leaderboard has a different scoring method, with the current criteria as follows:
 
-* **Story Maker**: Story 판매 실적
-* **Story**: Story가 받은 Like의 합계 + 개별 Story의 판매 실적
-* **Character**: Character가 받은 Like의 합계 + 전체 사용자의 Character 상호작용 수
+* **Story Maker:** Based on story sales performance.
+* **Story:** The total number of likes received + individual story sales performance.
+* **Character:** The total number of likes received + the number of interactions with the character by all users.
 
+Seasonal leaderboard rewards may include Story Points, GEM, $SCHAT, or a combination thereof. The type and quantity of rewards can change each season.
 
-
-시즌 리더보드의 보상은 Story Point, GEM, $SCHAT 중 하나 또는 중복하여 지급되며, 시즌에 따라 보상의 종류와 수량은 변경될 수 있습니다.
-
-Storychat의 시즌제 운영은 공정하고 투명한 보상 시스템을 통해 사용자들의 참여를 장려하고, 생태계의 지속적인 성장을 도모합니다.
+Storychat's seasonal operations promote user engagement through a fair and transparent reward system, fostering continuous growth of the ecosystem.

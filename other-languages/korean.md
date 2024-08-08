@@ -1,6 +1,6 @@
 # Create Characters
 
-Storychat App을 통해 모바일 환경에서도 매우 간편하게 캐릭터를 제작하고 공유할 수 있습니다.
+The Storychat App allows you to easily create and share characters in a mobile environment.
 
 ## How to Create Characters
 
@@ -10,7 +10,7 @@ Storychat App을 통해 모바일 환경에서도 매우 간편하게 캐릭터�
 
 </div>
 
-메인 화면 하단의 **Create** 탭을 터치합니다.
+**Touch the Create tab** at the bottom of the main screen.
 
 
 
@@ -22,11 +22,13 @@ Storychat App을 통해 모바일 환경에서도 매우 간편하게 캐릭터�
 
 </div>
 
-캐릭터의 이름을 입력합니다.&#x20;
+**Enter the character's name.**
 
-캐릭터의 이름은 AI가 대상 캐릭터의 기본 정보를 파악하는 데 사용되며, 기존에 존재하는 IP일수록 정확한 텍스트를 입력해야 합니다.&#x20;
+The character's name helps the AI understand the basic information about the character. For existing IPs, precise text input is essential.&#x20;
 
-캐릭터의 이름은 사용자가 탐색 창에서 캐릭터를 찾을 때 가장 중요한 요소 중 하나입니다.
+The character's name is one of the most critical factors for users when searching for characters.
+
+
 
 
 
@@ -38,9 +40,9 @@ Storychat App을 통해 모바일 환경에서도 매우 간편하게 캐릭터�
 
 </div>
 
-캐릭터의 프로필 사진을 업로드합니다.&#x20;
+**Upload a profile picture for the character.**
 
-Storychat은 이미지를 강조하는 형태로 캐릭터를 정렬하기 때문에, 너무 작은 크기의 이미지보다는 캐릭터의 얼굴이 잘 드러나고 이목을 끌 수 있는 개성 있는 사진을 선택하는 것이 좋습니다.
+Since Storychat emphasizes images in character alignment, choose a distinctive photo that clearly shows the character’s face and captures attention, rather than a very small image.
 
 
 
@@ -52,15 +54,17 @@ Storychat은 이미지를 강조하는 형태로 캐릭터를 정렬하기 때�
 
 </div>
 
-캐릭터의 백그라운드 이미지를 업로드합니다.&#x20;
+**Upload a background image for the character.**
 
-이 이미지는 캐릭터의 프로필 페이지에 게시되며, 유저들이 해당 캐릭터에 대해 더 잘 알 수 있는 캐릭터의 특성이 드러난 풍경이나 관련된 이미지를 선정하는 것을 추천합니다.
+This image will be displayed on the character’s profile page. It is recommended to select a scene or related image that reveals the character's characteristics, helping users understand the character better.
+
+
 
 
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-캐릭터의 대화 방식에 가장 많은 영향을 주는 부분입니다. 캐릭터 세부 사항에서 입력 가능한 정보는 다음과 같습니다:
+**Enter character details,** which significantly influence the character’s conversational style. The following information can be input:
 
 * **Age**
 * **Gender**
@@ -74,21 +78,21 @@ Storychat은 이미지를 강조하는 형태로 캐릭터를 정렬하기 때�
 
 
 
-세부 정보를 입력할 때, 예시 문장을 사용하여 빠르게 캐릭터를 생성할 수 있으며, 각각의 항목을 텍스트로 직접 입력하여 보다 상세한 캐릭터를 만들 수 있습니다.&#x20;
+When entering details, you can quickly generate a character using sample sentences or create a more detailed character by directly inputting text for each field.&#x20;
 
-**Description**에는 캐릭터의 입장이 되어 1인칭 시점으로 입력하고 문장이 명확할수록 캐릭터의 성능이 향상됩니다.&#x20;
+For the Description, write in the first person from the character's perspective; clearer sentences enhance character performance.&#x20;
 
-> ex) 나는 큰 칼을 든 기사다.
+> Example: "I am a knight wielding a large sword."
 
 
 
 #### Make Public Character
 
-이 옵션을 체크할 경우, 제작된 캐릭터가 커뮤니티에 공유되어 누구나 사용하고 상호작용할 수 있습니다. 캐릭터 제작을 통한 수익화를 위해서는 이 옵션의 활성화가 필수적입니다.
+Checking this option allows the created character to be shared with the community, making it accessible for everyone to use and interact with. This option must be enabled for monetizing character creation.
 
 
 
 #### Enable NSFW content
 
-선정적이거나 잔인한 이미지 및 컨셉이 사용된 경우 반드시 이 옵션을 활성화해야 합니다. 만약 이 옵션을 활성화하지 않은 상태로 NSFW 콘텐츠를 공급할 경우, 규정에 따라 처벌이 이루어질 수 있습니다.
+If the character involves explicit or violent images and concepts, this option must be enabled. Failure to activate this option when providing NSFW content may result in penalties according to the regulations.
 
