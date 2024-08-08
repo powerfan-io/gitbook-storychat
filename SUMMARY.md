@@ -39,4 +39,4 @@
 * [Links](extra/links.md)
 * [Disclaimer](extra/disclaimer.md)
 * [Privacy Policy](extra/privacy-policy.md)
-* [Terms of Services](extra/terms-of-services.md)
+* [Terms of Conditions](extra/terms-of-conditions.md)
