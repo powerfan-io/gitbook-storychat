@@ -1,6 +1,6 @@
 # Storychat
 
-<figure><img src=".gitbook/assets/logo square (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Storychat logo_A.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Storychat
 
