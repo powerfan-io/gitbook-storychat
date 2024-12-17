@@ -31,7 +31,7 @@
 ## TUTORIALS
 
 * [Create Characters](other-languages/korean.md)
-* [Create Stories](tutorials/create-stories.md)
+* [Create Series](tutorials/create-series.md)
 * [Create Images & Videos](tutorials/create-images-and-videos.md)
 * [Forgot Password? Reset password](tutorials/forgot-password-reset-password.md)
 
