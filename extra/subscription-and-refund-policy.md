@@ -11,7 +11,7 @@ This Subscription & Refund Policy governs the purchase, use, cancellation, and r
 
 #### 1. Subscription Plans
 
-Storychat offers tiered subscription plans—such as Silver and Gold—that unlock different premium features (e.g., advanced AI models, longer memory, faster response speeds, and additional customization tools). Each plan is available in one or more durations (e.g., 1-day, 7-day, 30-day) as offered at the time of purchase.
+Storychat offers tiered subscription plans—such as Silver and Gold—that unlock different premium features (e.g., advanced AI models, longer memory, faster response speeds, and additional customization tools). Gold plan is available in one or more durations (e.g., 1-day, 7-day, 30-day) as offered at the time of purchase.
 
 ***
 
