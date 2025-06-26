@@ -21,7 +21,7 @@ These Terms and Conditions ("Terms") govern your access to and use of the Storyc
    You retain ownership of content you create (e.g., characters, chats, stories) but grant Storychat a worldwide, royalty-free, sublicensable license to use, display, and distribute such content within the Services and in promotional materials. You are responsible for your content and any consequences arising from its use or sharing.\
 
 3. Subscription & Story Point Usage\
-   Access to certain features requires a paid subscription or the use of in-app currency called Story Points (SP). For details on pricing, billing, refund policy, SP usage, and cancellation terms, please refer to our Subscription Policy: [https://app.gitbook.com/o/oekUOKxJhBVf76zrSVFq/s/kUCkkdlRI2o9EkTVsB5W/\~/changes/37/extra/subscription-and-refund-policy](https://app.gitbook.com/o/oekUOKxJhBVf76zrSVFq/s/kUCkkdlRI2o9EkTVsB5W/~/changes/37/extra/subscription-and-refund-policy)\
+   Access to certain features requires a paid subscription or the use of in-app currency called Story Points (SP). For details on pricing, billing, refund policy, SP usage, and cancellation terms, please refer to our Subscription Policy: [https://storychat.gitbook.io/storychat/extra/subscription-and-refund-policy](https://storychat.gitbook.io/storychat/extra/subscription-and-refund-policy)\
 
 4. Payments and Taxes\
    All payments are final and non-refundable unless required by law. Users are responsible for any applicable taxes. We are not responsible for overdraft charges or fees from your bank or payment provider.\
@@ -30,7 +30,7 @@ These Terms and Conditions ("Terms") govern your access to and use of the Storyc
    We may suspend or terminate your account without notice if you violate these Terms or pose a risk to Storychat or its users. Upon termination, your access to Services and licenses granted under these Terms will immediately end.\
 
 6. Privacy\
-   Your privacy is important to us. Please review our Privacy Policy to understand how we collect, use, and protect your data: [https://app.gitbook.com/o/oekUOKxJhBVf76zrSVFq/s/kUCkkdlRI2o9EkTVsB5W/\~/changes/37/extra/privacy-policy](privacy-policy.md)\
+   Your privacy is important to us. Please review our Privacy Policy to understand how we collect, use, and protect your data: [https://storychat.gitbook.io/storychat/extra/privacy-policy](https://storychat.gitbook.io/storychat/extra/privacy-policy)\
 
 7. Third-Party Services\
    Our Services may link to or integrate with third-party services. We are not responsible for their content, practices, or availability. Analytics tools (e.g., Microsoft Clarity, Google Analytics) may collect data as described in our Privacy Policy.\
