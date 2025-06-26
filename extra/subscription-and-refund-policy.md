@@ -1,98 +1,103 @@
 # Subscription & Refund Policy
 
+**Subscription & Refund Policy**
+
+Effective Date: June 26, 2025\
 
 
-Effective Date: June 26, 2025
-
-This policy outlines the terms and conditions for using paid services and purchasing virtual currency (Story Points) on Storychat. By subscribing to any paid plan or purchasing Story Points, you agree to the following terms:
+This Subscription & Refund Policy governs the purchase, use, cancellation, and refund of subscription plans and Story Points (SP) on the Storychat platform operated by PowerFan Inc.
 
 ***
 
 #### 1. Subscription Plans
 
-Storychat offers paid subscription plans, including Silver and Gold, each providing access to different premium features such as advanced AI models, longer memory, faster response speed, and enhanced personalization tools.
-
-Each plan may be available in varying durations (e.g., 1 day, 7 days, or 30 days) depending on your selection.
+Storychat offers tiered subscription plans—such as Silver and Gold—that unlock different premium features (e.g., advanced AI models, longer memory, faster response speeds, and additional customization tools). Each plan is available in one or more durations (e.g., 1-day, 7-day, 30-day) as offered at the time of purchase.
 
 ***
 
 #### 2. Billing & Renewal
 
-* Subscriptions are charged upfront at the time of purchase.
-* Some plans (e.g., monthly) may be automatically renewed unless the user cancels before the renewal date.
-* You are responsible for ensuring your payment method is valid and has sufficient funds at the time of billing.
+* All subscriptions are charged upfront at the time of purchase.
+* Some subscriptions may be auto-renewed (e.g., 30-day plans), in which case your registered payment method will be automatically charged at the beginning of each renewal period.
+* You are responsible for ensuring that your payment method is valid and has sufficient funds.
+* If auto-renewal fails due to insufficient funds or payment failure, your access to premium features may be suspended or downgraded.
 
 ***
 
-#### 3. Plan Upgrade & Downgrade
+#### 3. Plan Upgrades & Downgrades
 
-Upgrades:
+**Upgrades (e.g., Silver → Gold)**
 
-* When upgrading from a lower-tier plan (e.g., Silver → Gold), Storychat will automatically apply prorated credit based on the unused portion of your current plan.
-* Your new plan will take effect immediately after the upgrade.\
+* When you upgrade, the unused portion of your current plan will be automatically credited toward the upgraded plan using a pro-rata calculation.
+* The upgraded plan will begin immediately.\
 
 
-Downgrades:
+**Downgrades (e.g., Gold → Silver)**
 
-* Downgrades (e.g., Gold → Silver) take effect only after your current subscription ends.
-* Until that time, you retain access to the higher-tier plan and will automatically switch to the downgraded plan upon the next billing cycle.
+* Downgrades take effect only after the current subscription period ends.
+* You will continue to enjoy access to the higher-tier features until the downgrade becomes effective at the start of the next billing cycle.
 
 ***
 
 #### 4. Cancellation Policy
 
-You may cancel your subscription at any time through the app interface.
-
-* Your premium benefits will remain active until the end of the current billing period.
-* After cancellation, no future charges will be applied unless you resubscribe manually.
-* Cancelling a subscription does not result in a refund of any portion of the payment already made.
+* You may cancel your subscription at any time through the in-app settings.
+* Cancellation stops future renewals, but your premium features will remain active until the end of the current billing period.
+* Cancelling a subscription does not trigger a refund for the remaining period.
 
 ***
 
 #### 5. Refund Policy
 
-Except where required by law, all payments are final and non-refundable, including both subscriptions and Story Points.
+All payments for subscriptions and Story Points are non-refundable, except as required by applicable law.
 
 
 
-We do not offer refunds or partial credits for:
+We do not issue refunds or credits for:
 
 * Unused time within a subscription period
-* Partial use of any feature
-* Accidental purchases or in-app errors caused by user behavior
-* Unused or expired promotional offers\
-
-
-If an issue arises due to a confirmed technical error on Storychat’s part (e.g., AI malfunction, double billing), our support team may review and resolve the case on a discretionary basis.
-
-***
-
-6\. Story Point (SP) Policy
-
-* Story Points (SP) are a form of in-app currency that can be used to unlock features such as advanced AI chats, long memory, high-res image generation, etc.
-* SPs are non-refundable and non-transferable, and they cannot be converted into cash.
-* SPs do not expire, but promotional SPs offered during events or campaigns may have usage limitations.
-* SPs will be deducted immediately when a feature is accessed.
+* Partial or limited use of premium features
+* Accidental purchases
+* In-app errors caused by user behavior
+* Promotional offers that were unused or expired
 
 
 
-Please review your balance and usage carefully before confirming.
+If a confirmed technical issue caused by Storychat (e.g., double billing, failed access to paid features) occurs, our support team may, at its discretion, investigate and issue a resolution, which may include a refund or service credit.
 
 ***
 
-#### 7. Modifications & Changes
+#### 6. Story Point (SP) Policy
 
-We reserve the right to modify or update this policy at any time. If material changes are made, we will notify users via the app or our official website.
+* Story Points are a form of non-refundable, non-transferable in-app virtual currency.
+* SPs are used to unlock individual features such as advanced AI chats, longer memory, HD image generation, or character image access.
+* Once used, SPs are immediately deducted and cannot be reclaimed or refunded.
+* SPs do not expire unless otherwise stated in promotional terms.
+* Promotional SPs may be subject to restrictions or expiration dates.
 
 
 
-Continued use of Storychat after policy updates constitutes your agreement to the revised terms.
+Please check your SP balance and the feature cost before confirming usage.
 
 ***
 
-#### 8. Contact
+#### 7. Modifications to This Policy
 
-For questions, billing issues, or support inquiries, please contact our team at:
+We reserve the right to modify this Subscription & Refund Policy at any time. If we make material changes, we will notify users via the app, website, or email. Continued use of paid features after changes take effect constitutes your acceptance of the revised terms.
 
-📧 team@storychat.app
+***
+
+#### 8. Contact Us
+
+If you have questions, need billing support, or would like to dispute a charge, please contact:
+
+PowerFan Inc. d/b/a Storychat
+
+Attn: Billing Team
+
+2605 S Decatur Blvd Ste 123, #555
+
+Las Vegas, Nevada 89102, United States
+
+📧 support@storychat.app
 

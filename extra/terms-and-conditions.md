@@ -1,107 +1,69 @@
 # Terms and Conditions
 
-## Storychat Terms of Service
+Terms and Conditions (Effective Date: June 26, 2025)
 
-**Effective Date:** June 13, 2025
+These Terms and Conditions ("Terms") govern your access to and use of the Storychat application and website ("Services") operated by PowerFan Inc. ("we," "us," or "Storychat"). By using our Services, you agree to these Terms.
 
-PowerFan Inc. d/b/a **Storychat** ("Storychat," "we," "our," or "us") operates the Storychat websites, mobile applications, browser extensions, APIs, and any related services that link to these Terms (collectively, the "Services").\
-These Terms of Service (the "Terms") constitute a legally binding agreement between you and Storychat governing your access to and use of the Services.
 
-> **By accessing or using the Services, you agree to be bound by these Terms and our Privacy Policy.**\
-> If you do not agree, do not access or use the Services.
 
-***
+1. User Conduct\
+   You agree not to:
 
-### 1. Eligibility & Acceptance
+* Submit illegal, infringing, harassing, hateful, obscene, or otherwise objectionable content
+* Impersonate any person or misrepresent your affiliation
+* Exploit or depict minors in any form
+* Use Services for legal, medical, or financial advice without proper qualifications
+* Interfere with, disrupt, or attempt unauthorized access to our Services
 
-1.1 You must be at least **13 years old** (or 16 years old if you reside in the EEA/UK) and legally competent to enter a binding contract.\
-1.2 If you use the Services on behalf of an entity, "you" includes both you and that entity, and you represent that you are authorized to bind the entity to these Terms.
 
-### 2. Account Registration & Security
 
-2.1 You agree to provide accurate, current, and complete information when creating an account and to keep it up to date.\
-2.2 You are responsible for safeguarding your password and all activity under your account. Notify us immediately at [**team@storychat.app**](mailto:team@storychat.app) of any unauthorized use.
+2. User Content\
+   You retain ownership of content you create (e.g., characters, chats, stories) but grant Storychat a worldwide, royalty-free, sublicensable license to use, display, and distribute such content within the Services and in promotional materials. You are responsible for your content and any consequences arising from its use or sharing.\
 
-### 3. Description of Services
+3. Subscription & Story Point Usage\
+   Access to certain features requires a paid subscription or the use of in-app currency called Story Points (SP). For details on pricing, billing, refund policy, SP usage, and cancellation terms, please refer to our Subscription Policy: [https://app.gitbook.com/o/oekUOKxJhBVf76zrSVFq/s/kUCkkdlRI2o9EkTVsB5W/\~/changes/37/extra/subscription-and-refund-policy](https://app.gitbook.com/o/oekUOKxJhBVf76zrSVFq/s/kUCkkdlRI2o9EkTVsB5W/~/changes/37/extra/subscription-and-refund-policy)\
 
-Storychat allows users to create, share, and interact with AI‑generated characters and narrative content. The Services may evolve, and features may change or be discontinued at any time.
+4. Payments and Taxes\
+   All payments are final and non-refundable unless required by law. Users are responsible for any applicable taxes. We are not responsible for overdraft charges or fees from your bank or payment provider.\
 
-### 4. Limited License & Usage Rules
+5. Account Suspension & Termination\
+   We may suspend or terminate your account without notice if you violate these Terms or pose a risk to Storychat or its users. Upon termination, your access to Services and licenses granted under these Terms will immediately end.\
 
-4.1 Subject to your ongoing compliance with these Terms, Storychat grants you a **personal, non‑exclusive, non‑transferable, revocable** license to access and use the Services.\
-4.2 You may not:
+6. Privacy\
+   Your privacy is important to us. Please review our Privacy Policy to understand how we collect, use, and protect your data: [https://app.gitbook.com/o/oekUOKxJhBVf76zrSVFq/s/kUCkkdlRI2o9EkTVsB5W/\~/changes/37/extra/privacy-policy](privacy-policy.md)\
 
-* copy, modify, reverse engineer, or create derivative works of the Services or any part thereof;
-* sell, rent, lease, sublicense, or otherwise redistribute the Services;
-* bypass or disable any security or usage restrictions;
-* use the Services to violate any law or third‑party right.
+7. Third-Party Services\
+   Our Services may link to or integrate with third-party services. We are not responsible for their content, practices, or availability. Analytics tools (e.g., Microsoft Clarity, Google Analytics) may collect data as described in our Privacy Policy.\
 
-### 5. User Content & License Grants
+8. Intellectual Property\
+   All content and software provided by Storychat (excluding user-generated content) is owned by PowerFan Inc. or its licensors and protected under intellectual property laws. The name "Storychat" and associated trademarks belong to PowerFan Inc.\
 
-5.1 "User Content" means any text, images, audio, video, characters, prompts, or other materials you submit or transmit through the Services.\
-5.2 You retain ownership of your User Content.\
-5.3 **License to Storychat.** You grant Storychat a worldwide, non‑exclusive, royalty‑free, sublicensable, perpetual license to host, store, reproduce, adapt, publish, translate, distribute, publicly perform and display, and otherwise use your User Content for the purpose of operating, improving, and promoting the Services.\
-5.4 You represent and warrant that you have all rights necessary to grant the above license and that your User Content and your use of the Services will not violate any law or third‑party right.
+9. Disclaimers\
+   The Services are provided "AS IS" and "AS AVAILABLE" without warranties of any kind. We disclaim all warranties including fitness for a particular purpose, accuracy, availability, or non-infringement. We do not guarantee uninterrupted or error-free service.\
 
-### 6. Prohibited Conduct
+10. Limitation of Liability\
+    To the maximum extent permitted by law, Storychat is not liable for indirect, incidental, special, or consequential damages, or any loss of data or profits. Our total liability shall not exceed the greater of $100 or the total amount you paid in the past 12 months.\
 
-You agree not to:
+11. Indemnification\
+    You agree to indemnify and hold harmless Storychat, its affiliates, employees, and agents from any claims, losses, damages, or expenses (including legal fees) arising from your content or violation of these Terms.\
 
-* submit illegal, infringing, harassing, hateful, obscene, or otherwise objectionable content;
-* impersonate any person or entity or misrepresent your affiliation with any person or entity;
-* exploit minors or depict sexual content involving minors;
-* use the Services for medical, legal, financial, or professional advice without appropriate qualifications;
-* interfere with or disrupt the Services or servers.
+12. Governing Law & Dispute Resolution\
+    These Terms are governed by the laws of the State of Nevada, U.S.A. All disputes shall be resolved through binding arbitration in Las Vegas, Nevada, under the JAMS Streamlined Arbitration Rules. Both parties waive the right to jury trials or class actions. Either party may seek injunctive relief in court for intellectual property matters.\
 
-### 7. Third‑Party Services & Analytics
+13. Modifications to Terms\
+    We may update these Terms at any time. Material changes will be communicated through the Services or via email. Continued use of the Services after such updates constitutes acceptance of the revised Terms.\
 
-7.1 The Services may integrate with or link to third‑party services. Storychat is not responsible for those services.\
-7.2 We use analytics providers, including **Microsoft Clarity**, to collect usage data (e.g., heat‑maps, session recordings) for improving user experience. Use of analytics is further described in our Privacy Policy.
+14. Miscellaneous
 
-### 8. Fees & Payment
+* Entire Agreement: These Terms constitute the full agreement between you and Storychat.
+* Severability: If any provision is found unenforceable, the remainder remains in effect.
+* No Waiver: Our failure to enforce a provision does not waive future enforcement.
+* Assignment: You may not assign rights under these Terms without our consent.\
 
-Certain features may require payment. All fees are non‑refundable except as required by law. Taxes are your responsibility.
 
-### 9. Intellectual Property
-
-The Services, including all software, content, and trademarks (other than User Content), are owned by Storychat or its licensors and are protected by intellectual‑property laws. Storychat and related marks are trademarks of PowerFan Inc.
-
-### 10. Termination
-
-We may suspend or terminate your account or access to the Services at any time, with or without notice, if we believe you have violated these Terms or pose a risk to Storychat or other users. Upon termination, all licenses granted to you end immediately.
-
-### 11. Disclaimer of Warranties
-
-THE SERVICES ARE PROVIDED "AS IS" AND "AS AVAILABLE." STORYCHAT DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON‑INFRINGEMENT, AND THAT THE SERVICES WILL BE ERROR‑FREE OR UNINTERRUPTED.
-
-### 12. Limitation of Liability
-
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, STORYCHAT SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, OR FOR ANY LOSS OF PROFITS OR DATA, ARISING OUT OF OR IN CONNECTION WITH THE SERVICES, EVEN IF STORYCHAT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. STORYCHAT’S TOTAL LIABILITY SHALL NOT EXCEED THE GREATER OF (A) ONE HUNDRED U.S. DOLLARS (US $100) OR (B) THE AMOUNT YOU PAID TO STORYCHAT IN THE 12 MONTHS PRECEDING THE CLAIM.
-
-### 13. Indemnification
-
-You will indemnify and hold harmless Storychat, its affiliates, and their officers, directors, employees, and agents from any claim, loss, or damage (including reasonable attorneys’ fees) arising out of your User Content or your violation of these Terms or any law.
-
-### 14. Governing Law & Dispute Resolution
-
-14.1 These Terms are governed by the laws of the **State of Nevada**, U.S.A., without regard to conflict‑of‑laws principles.\
-14.2 **Arbitration.** Any dispute arising out of or relating to these Terms or the Services will be resolved by binding arbitration in Las Vegas, Nevada, under the JAMS Streamlined Arbitration Rules. You and Storychat waive any right to a jury trial or to participate in class actions.\
-14.3 Nothing in this Section limits either party’s right to seek equitable relief in court for intellectual‑property infringement or misappropriation.
-
-### 15. Changes to Terms
-
-We may update these Terms from time to time. Material changes will be communicated via the Services or email. Continued use after the effective date constitutes acceptance of the revised Terms.
-
-### 16. Miscellaneous
-
-* **Entire Agreement.** These Terms constitute the entire agreement between you and Storychat regarding the Services.
-* **Severability.** If any provision is held invalid, the remainder shall remain in effect.
-* **No Waiver.** Our failure to enforce any provision is not a waiver of future enforcement.
-* **Assignment.** You may not assign your rights under these Terms without our consent; we may assign ours freely.
-
-### 17. Contact
-
-PowerFan Inc. d/b/a Storychat\
-2605 S Decatur Blvd Ste 123, #555\
-Las Vegas, Nevada 89102 USA\
-**Email:** [team@storychat.app](mailto:team@storychat.app)
+15. Contact Us\
+    PowerFan Inc. d/b/a Storychat\
+    Attn: Legal Team\
+    2605 S Decatur Blvd Ste 123, #555\
+    Las Vegas, Nevada 89102, United States\
+    Email: [support@storychat.app](mailto:support@storychat.app)
