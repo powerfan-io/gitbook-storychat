@@ -35,6 +35,10 @@
 * [Create Images & Videos](tutorials/create-images-and-videos.md)
 * [Forgot Password? Reset password](tutorials/forgot-password-reset-password.md)
 
+***
+
+* [Referral](referral.md)
+
 ## Extra
 
 * [Links](extra/links.md)
