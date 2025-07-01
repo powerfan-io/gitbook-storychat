@@ -1,5 +1,7 @@
 # Referral
 
+##
+
 ## 📢 Invite Friends & Earn 30% of Their Payments!
 
 Storychat offers a “Family Referral System” that lets you **earn up to 30%** of what invited users spend.\
@@ -64,7 +66,7 @@ Share your link, grow the community, and get rewarded!
 * If they sign up, your invite code is applied automatically.
 * You can even share **other creators' characters** — **you still get the referral earnings!**
 
-<figure><img src=".gitbook/assets/Screenshot 2025-07-01 at 4.15.20 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2025-07-01 at 4.20.00 PM.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -76,7 +78,7 @@ Share your link, grow the community, and get rewarded!
 * If they register, your invite code is applied.
 * Sharing someone else’s series? **You still earn from it!**
 
-<figure><img src=".gitbook/assets/Screenshot 2025-07-01 at 4.15.59 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2025-07-01 at 4.21.08 PM.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -85,7 +87,7 @@ Share your link, grow the community, and get rewarded!
 * Click the share icon on any feed post.
 * Same behavior: link tracking + automatic invite code.
 
-<figure><img src=".gitbook/assets/Screenshot 2025-07-01 at 4.16.34 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2025-07-01 at 4.21.36 PM.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
