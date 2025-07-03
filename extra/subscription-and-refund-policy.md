@@ -1,95 +1,102 @@
 # Subscription & Refund Policy
 
-**Subscription & Refund Policy**
+Subscription & Refund Policy
 
-Effective Date: June 26, 2025\
+_Effective Date: July 3, 2025_\
 
 
-This Subscription & Refund Policy governs the purchase, use, cancellation, and refund of subscription plans and Story Points (SP) on the Storychat platform operated by PowerFan Inc.
-
-***
-
-#### 1. Subscription Plans
-
-Storychat offers tiered subscription plans—such as Silver and Gold—that unlock different premium features (e.g., advanced AI models, longer memory, faster response speeds, and additional customization tools). Gold plan is available in one or more durations (e.g., 1-day, 7-day, 30-day) as offered at the time of purchase.
+This Policy governs the purchase, use, cancellation, and refund of subscription plans and Story Points (SP) on the Storychat platform operated by PowerFan Inc. (“Storychat,” “we,” “our,” or “us”).
 
 ***
 
-#### 2. Billing & Renewal
+### 1. Subscription Plans
 
-* All subscriptions are charged upfront at the time of purchase.
-* Some subscriptions may be auto-renewed (e.g., 30-day plans), in which case your registered payment method will be automatically charged at the beginning of each renewal period.
-* You are responsible for ensuring that your payment method is valid and has sufficient funds.
-* If auto-renewal fails due to insufficient funds or payment failure, your access to premium features may be suspended or downgraded.
+Storychat offers tiered plans—currently Silver and Gold—that unlock premium features (e.g., advanced AI models, longer memory, faster response, additional customization tools).
 
-***
+<table data-header-hidden><thead><tr><th width="90.3359375">Plan</th><th width="287.3515625">Durations Offered</th><th>Renewal</th><th>Key Benefits (examples)</th></tr></thead><tbody><tr><td>Silver</td><td>30 days (auto-renew)</td><td>Auto-renew</td><td>More memory, priority queue</td></tr><tr><td>Gold</td><td><p>• 1-day Pass (non-renew) </p><p>• 7-day Pass (non-renew) </p><p>• 30-day (auto-renew)</p></td><td>See duration</td><td>All models unlocked, fastest speed, HD images</td></tr></tbody></table>
 
-#### 3. Plan Upgrades & Downgrades
-
-**Upgrades (e.g., Silver → Gold)**
-
-* When you upgrade, the unused portion of your current plan will be automatically credited toward the upgraded plan using a pro-rata calculation.
-* The upgraded plan will begin immediately.\
-
-
-**Downgrades (e.g., Gold → Silver)**
-
-* Downgrades take effect only after the current subscription period ends.
-* You will continue to enjoy access to the higher-tier features until the downgrade becomes effective at the start of the next billing cycle.
+_We may add, remove, or modify plans or durations at any time._
 
 ***
 
-#### 4. Cancellation Policy
+### 2. Billing & Renewal
 
-* You may cancel your subscription at any time through the in-app settings.
-* Cancellation stops future renewals, but your premium features will remain active until the end of the current billing period.
-* Cancelling a subscription does not trigger a refund for the remaining period.
-
-***
-
-#### 5. Refund Policy
-
-All payments for subscriptions and Story Points are non-refundable, except as required by applicable law.
-
-
-
-We do not issue refunds or credits for:
-
-* Unused time within a subscription period
-* Partial or limited use of premium features
-* Accidental purchases
-* In-app errors caused by user behavior
-* Promotional offers that were unused or expired
-
-
-
-If a confirmed technical issue caused by Storychat (e.g., double billing, failed access to paid features) occurs, our support team may, at its discretion, investigate and issue a resolution, which may include a refund or service credit.
+1. Up-front charge – All fees are billed immediately at purchase.
+2. Auto-renewing plans (e.g., 30-day Silver or Gold) renew at the start of each billing period, charging your saved payment method.
+3. Non-renewing passes (1-day/7-day Gold) do not auto-renew.
+4. You must keep a valid payment method on file. Failed renewals may suspend or downgrade access.
 
 ***
 
-#### 6. Story Point (SP) Policy
+### 3. Plan Upgrades, Downgrades & Temporary Gold Passes
 
-* Story Points are a form of non-refundable, non-transferable in-app virtual currency.
-* SPs are used to unlock individual features such as advanced AI chats, longer memory, HD image generation, or character image access.
-* Once used, SPs are immediately deducted and cannot be reclaimed or refunded.
-* SPs do not expire unless otherwise stated in promotional terms.
-* Promotional SPs may be subject to restrictions or expiration dates.
+#### 3.1 Standard Upgrades (e.g., Silver → Gold 30-day)
 
+* Remaining Silver value is automatically credited pro-rata toward Gold.
+* Gold benefits begin immediately.\
 
 
-Please check your SP balance and the feature cost before confirming usage.
+#### 3.2 Standard Downgrades (e.g., Gold 30-day → Silver)
+
+* Downgrades take effect at the next billing cycle; you keep Gold benefits until then.
+
+
+
+#### 3.3 Temporary Gold Passes (1-day / 7-day)
+
+* Purchasing a Gold Pass while on an active Silver plan instantly upgrades your account to Gold for the Pass duration.
+* When the Pass expires, your account reverts to Silver and your Silver renewal date is extended by exactly the number of days the Gold Pass was active.
+* Example – Silver renews on July 5. You buy a 1-day Gold Pass on July 1:
+  * July 1 – 2: Gold benefits active
+  * July 2: Account reverts to Silver
+  * New Silver renewal date: July 6
+* 1-day and 7-day Gold Passes never auto-renew. (The 30-day Gold subscription follows the standard auto-renew rules in §2.)
+
+
+
+> Important: Extension credits applied to your Silver plan are not cash-refundable or transferable.
 
 ***
 
-#### 7. Modifications to This Policy
+### 4. Cancellation
 
-We reserve the right to modify this Subscription & Refund Policy at any time. If we make material changes, we will notify users via the app, website, or email. Continued use of paid features after changes take effect constitutes your acceptance of the revised terms.
+* You may cancel any time in the app settings.
+* Cancellation stops future renewals but does not refund the current period.
+* Premium access remains until the end of the already-paid term (including any Silver extension from §3.3).
 
 ***
 
-#### 8. Contact Us
+### 5. Refunds
 
-If you have questions, need billing support, or would like to dispute a charge, please contact:
+| Eligible for Refund                                                 | Not Eligible for Refund              |
+| ------------------------------------------------------------------- | ------------------------------------ |
+| Duplicate charges or confirmed technical errors caused by Storychat | Unused subscription time             |
+|                                                                     | Partial or limited use of features   |
+|                                                                     | Accidental purchases                 |
+|                                                                     | In-app errors caused by user actions |
+|                                                                     | Unused/expired promotional offers    |
+|                                                                     | Silver-plan extension credits (§3.3) |
+
+_Refunds (or service credits) for eligible cases are issued at Storychat’s discretion and only as required by applicable law._
+
+***
+
+### 6. Story Points (SP)
+
+* Non-refundable, non-transferable virtual currency.
+* Deducted immediately upon use and cannot be restored.
+* SPs never expire unless a promotion states otherwise; promotional SPs may carry restrictions or expiry dates.
+* Always confirm SP balance and feature cost before use.
+
+***
+
+### 7. Modifications
+
+We may update this Policy at any time. Material changes will be announced via the app, website, or email. Continued use of paid features after the effective date constitutes acceptance of the revised Policy.
+
+***
+
+### 8. Contact
 
 PowerFan Inc. d/b/a Storychat
 
@@ -99,5 +106,6 @@ Attn: Billing Team
 
 Las Vegas, Nevada 89102, United States
 
-📧 support@storychat.app
+✉️ support@storychat.app
 
+####
