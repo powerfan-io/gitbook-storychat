@@ -1,11 +1,5 @@
 # NSFW Content Guidelines
 
-Here is the final English version of the NSFW Content Guidelines, optimized for GitBook. All emoji have been removed, and the text is clean, legally cautious, and globally compliant — suitable for immediate use.
-
-***
-
-## NSFW Content Guidelines
-
 Storychat is committed to supporting creative freedom while maintaining a safe environment and complying with platform policies. This guideline outlines how sensitive or adult content (NSFW) is defined, displayed, and managed on the platform. It applies to both creators and users.
 
 ***
