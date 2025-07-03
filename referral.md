@@ -1,7 +1,5 @@
 # Referral
 
-##
-
 ## 📢 Invite Friends & Earn 30% of Their Payments!
 
 Storychat offers a “Family Referral System” that lets you **earn up to 30%** of what invited users spend.\

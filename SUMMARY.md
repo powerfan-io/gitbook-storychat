@@ -46,3 +46,4 @@
 * [Privacy Policy](extra/privacy-policy.md)
 * [Terms and Conditions](extra/terms-and-conditions.md)
 * [Subscription & Refund Policy](extra/subscription-and-refund-policy.md)
+* [NSFW Content Guidelines](extra/nsfw-content-guidelines.md)
