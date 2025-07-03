@@ -13,7 +13,7 @@ This Policy governs the purchase, use, cancellation, and refund of subscription 
 
 Storychat offers tiered plans—currently Silver and Gold—that unlock premium features (e.g., advanced AI models, longer memory, faster response, additional customization tools).
 
-<table data-header-hidden><thead><tr><th width="90.3359375">Plan</th><th width="287.3515625">Durations Offered</th><th>Renewal</th><th>Key Benefits (examples)</th></tr></thead><tbody><tr><td>Silver</td><td>30 days (auto-renew)</td><td>Auto-renew</td><td>More memory, priority queue</td></tr><tr><td>Gold</td><td><p>• 1-day Pass (non-renew) </p><p>• 7-day Pass (non-renew) </p><p>• 30-day (auto-renew)</p></td><td>See duration</td><td>All models unlocked, fastest speed, HD images</td></tr></tbody></table>
+<table><thead><tr><th width="90.3359375">Plan</th><th width="287.3515625">Durations Offered</th><th>Renewal</th><th>Key Benefits (examples)</th></tr></thead><tbody><tr><td>Silver</td><td>30 days (auto-renew)</td><td>Auto-renew</td><td>More memory, priority queue</td></tr><tr><td>Gold</td><td><p>• 1-day Pass (non-renew) </p><p>• 7-day Pass (non-renew) </p><p>• 30-day (auto-renew)</p></td><td>See duration</td><td>All models unlocked, fastest speed, HD images</td></tr></tbody></table>
 
 _We may add, remove, or modify plans or durations at any time._
 
