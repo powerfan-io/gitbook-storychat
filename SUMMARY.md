@@ -30,15 +30,15 @@
 
 ## TUTORIALS
 
-* [Gold 멤버 특전](tutorials/gold.md)
+* [💎 Membership Plans](tutorials/membership-plans.md)
 * [Chatting with Characters](tutorials/chatting-with-characters/README.md)
   * [Choosing an AI Model](tutorials/chatting-with-characters/choosing-an-ai-model.md)
   * [User Personas](tutorials/chatting-with-characters/user-personas.md)
-  * [Response Length 설정하기](tutorials/chatting-with-characters/response-length.md)
+  * [Response Length](tutorials/chatting-with-characters/response-length.md)
   * [Longer Memory](tutorials/chatting-with-characters/longer-memory.md)
-  * [새로운 채팅하기](tutorials/chatting-with-characters/undefined.md)
+  * [Starting a New Storychat](tutorials/chatting-with-characters/starting-a-new-storychat.md)
   * [Mood Snap](tutorials/chatting-with-characters/mood-snap.md)
-  * [편의기능](tutorials/chatting-with-characters/undefined-1.md)
+  * [Chat Enhancements](tutorials/chatting-with-characters/chat-enhancements.md)
 * [Character Creation](tutorials/character-creation/README.md)
   * [Quick Creation](tutorials/character-creation/quick-creation.md)
   * [Advanced Creation](tutorials/character-creation/advanced-creation.md)

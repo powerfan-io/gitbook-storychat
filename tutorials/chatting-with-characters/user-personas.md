@@ -23,6 +23,10 @@ Whether you’re roleplaying a vampire prince, a shy high schooler, or your drea
 4. Toggle “Default for all chats” if you want it applied everywhere.
 5. Click “Save Changes” and start chatting!
 
+
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-08-04 at 8.22.49 PM.png" alt="" width="341"><figcaption></figcaption></figure>
+
 \
 
 

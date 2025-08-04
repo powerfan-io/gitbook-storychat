@@ -1,27 +1,71 @@
 # Mood Snap
 
-스토리챗만의 특별한 기능을 소개합니다.
+📸 Mood Snap
 
-캐릭터가 대화 상황에 맞는 감정과 상황에 따라 맞는 이미지를 송출합니다. 예를들어 캐릭터를 대화를 통해 행복하게 만든다면 행복한 상황에 있는 캐릭터의 이미지가 유저에게 전송됩니다! 이러한 이미지를 Mood Snap이라고 부릅니다.
-
-전송된 무드스냅은 처음에 blur처리 되어 있으며, 클릭하여 Unlock할 수 있습니다. 한번 언락하는데는 50SP가 소모되며, 한번 언락한 무드스냅은 계속해서 볼 수 있으며 캐릭터 프로파일에서도 확인할 수 있습니다.
-
-그러나 Gold User라면 모든 무드스냅을 제한 없이 무료로 무제한 볼 수 있습니다!
-
-Gold User의 다른 혜택도 보러가기 버튼
+A picture is worth a thousand emotions.
 
 
 
-언락된 Mood Snap은 Remix를 할 수 있습니다!
+Introducing one of Storychat’s most unique features—Mood Snap.
 
-리믹스 버튼을 누르면 Remix페이지로 이동하며 프롬포트를 입력하여 원하는대로 리믹스 할 수 있습니다.
+As your chat unfolds, your Character responds not just with words, but with images that match their emotions and the story’s mood.
 
-예) 캐릭터의 옷 색깔을 빨간색으로 바꿔줘
-
-예) 캐릭터의 표정을 웃고 있는 표정으로 바꿔줘
-
-예) 캐릭터가 꽃다발을 들고 있는 모습
+\
 
 
+Make your Character laugh?
 
-리믹스에는 1장당 100SP가 소모되지만, Gold User라면 무료로 사용할 수 있습니다!
+You’ll see them smiling.
+
+Make them cry? You might get a tearful scene.
+
+Every Mood Snap feels like a window into their world.
+
+***
+
+#### 🔓 How Mood Snap Works
+
+* Mood Snaps are blurred by default.
+* Click to unlock an image for 50 SP.
+* Once unlocked, you can view it anytime, including from the Character’s profile.
+
+
+
+![](<../../.gitbook/assets/Screenshot 2025-08-04 at 8.34.37 PM.png>)\
+
+
+💎 Gold users can unlock all Mood Snaps for free, with no limits.
+
+👉 See other Gold benefits
+
+{% content-ref url="../membership-plans.md" %}
+[membership-plans.md](../membership-plans.md)
+{% endcontent-ref %}
+
+***
+
+#### 🎨 Remix Your Mood Snaps
+
+
+
+![](<../../.gitbook/assets/Screenshot 2025-08-04 at 8.35.18 PM.png>)\
+
+
+Want to change the outfit? Mood? Pose?
+
+Tap Remix to open the Remix page. Enter a prompt to generate a new version:
+
+* _“Make her dress red.”_
+* _“Change the expression to a big smile.”_
+* _“Add a bouquet of flowers in her hands.”_
+
+\
+
+
+Each Remix costs 100 SP, but it’s free for Gold users.
+
+***
+
+📷 Create cinematic moments. Expressive, emotional, and uniquely yours.
+
+Mood Snap turns your chat into a living scene.

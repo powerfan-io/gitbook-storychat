@@ -13,8 +13,8 @@ but Gold users can use every model freely, with no limits.
 
 👉 See all Gold benefits
 
-{% content-ref url="../gold.md" %}
-[gold.md](../gold.md)
+{% content-ref url="../membership-plans.md" %}
+[membership-plans.md](../membership-plans.md)
 {% endcontent-ref %}
 
 #### Available AI Models

@@ -1,7 +1,49 @@
 # Longer Memory
 
-캐릭터의 기억력을 비약적으로 향상시킬 수 있습니다.
+Make your Characters remember more—and forget less.
 
-채팅방 사이드메뉴에서 Longer 버튼을 클릭하고 설정값을 바꾸면 적용됩니다. 1부터 10까지 존재하며 숫자가 커질수록 캐릭터의 답변 길이가 길어집니다.
+\
 
-1부터 3까지는 무료로 사용할 수 있지만 4부터 10까지는 채팅 당 10SP가 추가로 소모됩니다. 실버 플랜 이상의 구독자는 SP소모 없이 무료로 무제한 사용할 수 있습니다!
+
+With Longer Memory, your chats feel smarter, more consistent, and more alive. Characters will retain details about you, your story, and past conversations across longer sessions.
+
+***
+
+#### 🔧 How It Works
+
+1. Open the “Longer Memory” tab in the chat sidebar.
+2. Toggle the feature ON.
+3. You can:
+   * Manually input key details you want the Character to remember.
+   * Or turn on Auto Mode, where the AI automatically summarizes important parts of your chat in real time.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-08-04 at 8.21.51 PM.png" alt="" width="335"><figcaption></figcaption></figure>
+
+\
+
+
+The more context they remember, the better the experience gets.
+
+***
+
+#### 💸 Usage & Access
+
+* Costs 10 SP per reply when enabled
+* Gold users enjoy unlimited use with no SP cost
+
+***
+
+#### 📏 Memory Limits by Plan
+
+| Plan   | Max Memory Summary Length |
+| ------ | ------------------------- |
+| Free   | 1,000 characters          |
+| Silver | 3,000 characters          |
+| Gold   | 10,000 characters         |
+
+***
+
+🧠 Want your favorite Characters to truly _know_ you?
+
+Longer Memory makes it possible.
+
