@@ -30,14 +30,30 @@
 
 ## TUTORIALS
 
+* [Gold 멤버 특전](tutorials/gold.md)
+* [Chatting with Characters](tutorials/chatting-with-characters/README.md)
+  * [Choosing an AI Model](tutorials/chatting-with-characters/choosing-an-ai-model.md)
+  * [User Personas](tutorials/chatting-with-characters/user-personas.md)
+  * [Response Length 설정하기](tutorials/chatting-with-characters/response-length.md)
+  * [Longer Memory](tutorials/chatting-with-characters/longer-memory.md)
+  * [새로운 채팅하기](tutorials/chatting-with-characters/undefined.md)
+  * [Mood Snap](tutorials/chatting-with-characters/mood-snap.md)
+  * [편의기능](tutorials/chatting-with-characters/undefined-1.md)
+* [Character Creation](tutorials/character-creation/README.md)
+  * [Quick Creation](tutorials/character-creation/quick-creation.md)
+  * [Advanced Creation](tutorials/character-creation/advanced-creation.md)
+  * [Character Attributes](tutorials/character-creation/character-attributes.md)
+  * [Mood Snap](tutorials/character-creation/mood-snap.md)
+  * [움직이는 캐릭터 만들기](tutorials/character-creation/undefined.md)
+* [Series Creation](tutorials/series-creation/README.md)
+  * [빠른 대화 공유하기](tutorials/series-creation/undefined.md)
+  * [시리즈 만들기](tutorials/series-creation/undefined-1.md)
+  * [Feed](tutorials/series-creation/feed.md)
+* [Image Generation](tutorials/image-generation.md)
+* [Referral](tutorials/referral.md)
 * [Create Characters](other-languages/korean.md)
-* [Create Series](tutorials/create-stories.md)
 * [Create Images & Videos](tutorials/create-images-and-videos.md)
 * [Forgot Password? Reset password](tutorials/forgot-password-reset-password.md)
-
-***
-
-* [Referral](referral.md)
 
 ## Extra
 

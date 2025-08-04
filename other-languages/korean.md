@@ -12,7 +12,7 @@ The Storychat App allows you to easily create and share characters in a mobile e
 
 
 
-<div align="left"><figure><img src="../.gitbook/assets/image (1).png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 **Upload a profile picture for the character.**
 
@@ -26,7 +26,7 @@ This image will be displayed on the character’s profile page. It is recommende
 
 
 
-<div align="left"><figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 **Enter the character's name.**
 
