@@ -1,23 +1,60 @@
 # Mood Snap
 
-캐릭터의 생동감을 대폭 증가시킬 수 있는 기능입니다! 스토리챗만의 독자적인 기능을 체험해보세요 몰입감이 크게 증가합니다.
+### 📸 Mood Snap – Bring Your Character to Life
+
+Mood Snap is Storychat’s unique feature that matches your Character’s emotions to images, creating a more immersive and expressive chat experience.\
 
 
+If you choose not to use Mood Snap, your Character will simply use their main profile image.
 
-optional기능이며 사용하지 않을경우 메인으로 등록한 사진만 사용됩니다.
+***
 
-캐릭터 생성 시 메인 프로파일 이미지를 올리고, 캐릭터 정의를 마친 뒤, Next버튼을 누르면 Mood Snap페이지에 도달하며, 이곳에서 캐릭터의 추가 이미지들을 업로드할 수 있습니다.
+#### 🛠 How to Set Up Mood Snap
 
-플러스 버튼을 눌러서 이미지를 업로드하면 해당 이미지에 어울리는 감정이나 상황을 선택해 해당 이미지와 매칭해야합니다. 미리 제공되는 옵션을 선택해도 되고 원하는 감정이나 상황이 없다면 직접 입력한 뒤에 Add tag버튼을 눌러서 원하는 감정이나 상황을 매치시켜도 됩니다.
+1.  Upload Your Profile Image
 
+    Create your Character as usual and complete the basic setup.
+2.  Go to the Mood Snap Page
 
+    After finishing the definition step, click Next to reach the Mood Snap screen.\
+    ![](<../../.gitbook/assets/Screenshot 2025-08-05 at 2.49.48 PM.png>)
+3.  Add Additional Images
 
-만약 어떤 이미지를 Happy와 매치했다면, 다른 유저들이 캐릭터와 대화하고 캐릭터가 해피한 상황이 되면 해당 이미지가 유저들에게 전송됩니다.
+    Click the ＋ button to upload expressive images of your Character.
 
-&#x20;
+    _Ideal size: 512×512, under 5MB._
+4. Match with Emotions or Situations
+   * Choose from the provided emotion tags (e.g., 😄 Happy, 😢 Sad, 😠 Angry).
+   * Or type your own custom tag and click + Add Tag.
+   * Example: If you tag an image as _Happy_, it will appear whenever the Character feels happy in a conversation.\
+     ![](<../../.gitbook/assets/Screenshot 2025-08-05 at 2.50.00 PM.png>)
 
-유저의 플랜에 따라 올릴 수 있는 최대 무드스냅의 개수가 다릅니다
+***
 
-무료 - 10개
+#### 💡 How It Works in Chat
 
-실버 - 30개 d
+When a conversation triggers a matching emotion or situation, the Character will send the corresponding Mood Snap image to the user.
+
+This creates a dynamic, emotion-driven visual experience.
+
+***
+
+#### 📏 Mood Snap Limits by Plan
+
+| Plan   | Max Mood Snaps |
+| ------ | -------------- |
+| Free   | 10             |
+| Silver | 30             |
+| Gold   | 100            |
+
+💎 Gold users can also unlock and remix Mood Snaps for free, without SP costs.
+
+👉 See more Gold benefits
+
+{% content-ref url="../membership-plans.md" %}
+[membership-plans.md](../membership-plans.md)
+{% endcontent-ref %}
+
+***
+
+✨ Tip: Use a variety of expressions and scenarios to make your Character feel more alive and responsive.
