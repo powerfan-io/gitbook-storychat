@@ -44,15 +44,13 @@
   * [Advanced Creation](tutorials/character-creation/advanced-creation.md)
   * [Mood Snap](tutorials/character-creation/mood-snap.md)
   * [Animated Profile](tutorials/character-creation/animated-profile.md)
-* [Series Creation](tutorials/series-creation/README.md)
-  * [빠른 대화 공유하기](tutorials/series-creation/undefined.md)
-  * [시리즈 만들기](tutorials/series-creation/undefined-1.md)
-  * [Feed](tutorials/series-creation/feed.md)
+* [Series Creation – Turn Chats into Stories](tutorials/series-creation-turn-chats-into-stories/README.md)
+  * [Quick Chat Sharing – Publish Instantly](tutorials/series-creation-turn-chats-into-stories/quick-chat-sharing-publish-instantly.md)
+  * [Create a Series](tutorials/series-creation-turn-chats-into-stories/create-a-series.md)
+  * [Feed – Discover, Interact, and Earn](tutorials/series-creation-turn-chats-into-stories/feed-discover-interact-and-earn.md)
 * [Image Generation](tutorials/image-generation.md)
 * [Referral](tutorials/referral.md)
-* [Create Characters](other-languages/korean.md)
-* [Create Images & Videos](tutorials/create-images-and-videos.md)
-* [Forgot Password? Reset password](tutorials/forgot-password-reset-password.md)
+* [FAQ](tutorials/faq.md)
 
 ## Extra
 

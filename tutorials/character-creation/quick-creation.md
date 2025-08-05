@@ -124,6 +124,25 @@ NSFW Content (Enable NSFW Content)
 3. Want to refine them? Open the Character settings anytime to update their name, profile image, description, or first message.
 4. For more control, try More Options when creating a new Character to add advanced attributes from the start.
 
+
+
+#### 💰 Monetize Your Character
+
+From your Character profile, tap the Share button to generate a unique link.
+
+* Anyone clicking the link can chat with your Character without logging in.
+* If they later sign up, your invite code is automatically applied.
+* You’ll earn 30% of all their payments for 1 year.\
+
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-08-05 at 4.32.59 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+👉 Learn more about the Referral Program
+
+{% content-ref url="../referral.md" %}
+[referral.md](../referral.md)
+{% endcontent-ref %}
+
 ***
 
 ✨ Tip: A great Name + engaging First Message can instantly bring your Character to life. Experiment, play, and see what stories unfold.
