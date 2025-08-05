@@ -43,7 +43,7 @@
   * [Quick Creation – Your First Character](tutorials/character-creation/quick-creation.md)
   * [Advanced Creation](tutorials/character-creation/advanced-creation.md)
   * [Mood Snap](tutorials/character-creation/mood-snap.md)
-  * [Moving Characters](tutorials/character-creation/moving-characters.md)
+  * [Animated Profile](tutorials/character-creation/animated-profile.md)
 * [Series Creation](tutorials/series-creation/README.md)
   * [빠른 대화 공유하기](tutorials/series-creation/undefined.md)
   * [시리즈 만들기](tutorials/series-creation/undefined-1.md)
